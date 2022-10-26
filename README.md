@@ -5,7 +5,9 @@
 Api integration to display contents and react-redux to add to cart like design and working.
 
 # Dependencies
-   "@react-native-masked-view/masked-view": "^0.2.8",
+ 
+ 
+    "@react-native-masked-view/masked-view": "^0.2.8",
     "@react-navigation/native": "^6.0.13",
     "@react-navigation/stack": "^6.3.2",
     "expo": "~46.0.16",
@@ -20,3 +22,4 @@ Api integration to display contents and react-redux to add to cart like design a
     "react-native-web": "~0.18.7",
     "react-redux": "^8.0.4",
     "redux": "^4.2.0"
+ 
