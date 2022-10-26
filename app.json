@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "reduxArray",
+    "slug": "reduxArray",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "reduxArray"
+}
