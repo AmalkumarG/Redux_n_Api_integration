@@ -23,3 +23,6 @@ Api integration to display contents and react-redux to add to cart like design a
     "react-redux": "^8.0.4",
     "redux": "^4.2.0"
  
+ 
+ # Output
+ https://user-images.githubusercontent.com/102892250/198121821-2f466585-f0a0-488a-b3bb-02272b4a7d06.mp4
